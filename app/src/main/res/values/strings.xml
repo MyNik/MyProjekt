@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Projekt</string>
+    <string name="add_item_title">Новая запись</string>
+    <string name="activity_items_list_title">Учёт бюджета</string>
+    <string name="name">Название</string>
+    <string name="rubl">₽</string>
+</resources>
